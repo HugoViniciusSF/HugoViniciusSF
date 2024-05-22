@@ -30,7 +30,7 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
 
 ## 🌟 Projetos Destacados
 
-### [Moni]([https://github.com/seuusuario/projeto1](https://github.com/HugoViniciusSF/PDS))
+### [Moni](https://github.com/HugoViniciusSF/PDS)
 _O Moni é um aplicativo projetado para simplificar e otimizar a gestão de monitorias em instituições educacionais._
 
 
