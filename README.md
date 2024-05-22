@@ -45,9 +45,8 @@ _O TetraVago é uma aplicação web de cadastramento em hóteis, com gerenciamen
 _Uma análise abrangente dos dados de vendas e avaliações de jogos, proporcionando uma compreensão detalhada do dinâmico universo dos videogames._
 
 ## 📫 Como me encontrar
-<div>
 <a href="https://www.linkedin.com/in/hugo-vinicius-33452830b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
 ## 📈 Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HugoViniciusSF&show_icons=true&theme=radical)](https://github.com/HugoViniciusSF)
