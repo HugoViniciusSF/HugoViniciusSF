@@ -59,5 +59,5 @@ _Uma análise abrangente dos dados de vendas e avaliações de jogos, proporcion
 
 ## Contribuições
 
-![Snake animation](https://github.com/HugoViniciusSF/HugoViniciusSF/blob/output/github-contribution-grid-snake.svg)
+
 
