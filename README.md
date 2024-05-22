@@ -15,7 +15,7 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20"/> Python
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="20" height="20"/> Java 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="20" height="20"/> TypeScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="20" height="20"/> Nest.js 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="20" height="20"/> Flutter
          
           
           
