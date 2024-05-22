@@ -33,12 +33,10 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
 ### [Moni]([https://github.com/seuusuario/projeto1](https://github.com/HugoViniciusSF/PDS))
 _O Moni é um aplicativo projetado para simplificar e otimizar a gestão de monitorias em instituições educacionais._
 
-![Moni](https://github.com/HugoViniciusSF/PDS/blob/main/moni/src/assets/images/logo_transparente.png?raw=true)
 
 ### [TetraVago](https://github.com/GustavoRocha3264/tetravago)
 _O TetraVago é uma aplicação web de cadastramento em hóteis, com gerenciamento de usuários, cadastro de reservas em hóteis, verificação de disponibilidade_
 
-![TetraVago](https://github.com/GustavoRocha3264/tetravago/blob/main/views/img/logo3.png?raw=true)
 
 ### [Analise Visual de Dados](https://github.com/HugoViniciusSF/AVD)
 _Uma análise abrangente dos dados de vendas e avaliações de jogos, proporcionando uma compreensão detalhada do dinâmico universo dos videogames._
