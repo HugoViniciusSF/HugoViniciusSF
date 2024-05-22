@@ -20,15 +20,15 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
           
           
 **Frameworks e Bibliotecas:**
-- React
-- Node.js
-- Nest.js
-- Next.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20"/> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/> Node.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="20" height="20"/> Nest.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="20" height="20"/> Next.js
 
 **Ferramentas e Plataformas:**
-- Docker
-- Git
-- GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20" height="20"/> Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20"/> Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20"/> GitHub
 
 
 ## 🌟 Projetos Destacados
