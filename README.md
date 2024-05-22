@@ -15,7 +15,10 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
 - Python
 - Java
 - TypeScript
-
+  -
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+          
+          
 **Frameworks e Bibliotecas:**
 - React
 - Node.js
