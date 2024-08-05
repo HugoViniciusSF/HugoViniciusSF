@@ -16,6 +16,7 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="20" height="20"/> Java 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="20" height="20"/> TypeScript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="20" height="20"/> Flutter
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  width="20" height="20" /> Arduíno
          
           
           
@@ -29,7 +30,9 @@ Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20" height="20"/> Docker
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20"/> Git
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20"/> GitHub
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="20" height="20"/> Canva
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="20" height="20" /> Figma
+          
 
 ## 🌟 Projetos Destacados
 
