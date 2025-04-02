@@ -5,8 +5,9 @@
 ## Sobre Mim
 
 👨‍💻 Desenvolvedor Full Stack | 🚀 Entusiasta de Tecnologia | 🎨 Designer de Interfaces
+Estudante do nono período de Tecnologia da Informação, destaco-me pela dedicação ao aprendizado constante e pela habilidade em contribuir de maneira eficaz em projetos em equipe. Atualmente, almejo expandir minha formação com um segundo ciclo em Engenharia de Software. Desde cedo, meu interesse por computadores e a busca por conhecimento têm sido fundamentais em minha trajetória acadêmica.
 
-Sou apaixonado por desenvolvimento de software e design do front-end web. Tenho experiência em trabalhar com diversas tecnologias e frameworks, e estou sempre buscando aprender e crescer profissionalmente.
+Atuo como desenvolvedor fullstack, com experiência no setor público, especificamente no Instituto Técnico-Científico de Perícia do Rio Grande do Norte (ITEP-RN). Minha atuação envolve o desenvolvimento e manutenção de sistemas, garantindo soluções eficientes e seguras para a gestão de informações institucionais. Sou apaixonado por desenvolvimento de software e design do front-end web, tendo experiência com diversas tecnologias e frameworks. Estou sempre buscando aprender e crescer profissionalmente, aprimorando minhas habilidades para entregar soluções cada vez mais eficientes e inovadoras.
 
 ## 🚀 Minhas Habilidades
 
