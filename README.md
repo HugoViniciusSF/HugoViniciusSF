@@ -49,6 +49,9 @@ _O TetraVago é uma aplicação web de cadastramento em hóteis, com gerenciamen
 ### [Analise Visual de Dados](https://github.com/HugoViniciusSF/AVD)
 _Uma análise abrangente dos dados de vendas e avaliações de jogos, proporcionando uma compreensão detalhada do dinâmico universo dos videogames._
 
+### [Análise e Classificação do Fluxo de Trânsito](https://github.com/HugoViniciusSF/ProjetoIA)
+_Este projeto realiza a análise inteligente do fluxo de veículos em tempo real, utilizando visão computacional e modelos de Inteligência Artificial para detectar, rastrear, contar e classificar a intensidade do trânsito._
+
 ## 📫 Como me encontrar
 <a href="https://www.linkedin.com/in/hugo-vinicius-33452830b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
