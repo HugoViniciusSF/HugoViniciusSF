@@ -52,6 +52,13 @@ _Uma análise abrangente dos dados de vendas e avaliações de jogos, proporcion
 ### [Análise e Classificação do Fluxo de Trânsito](https://github.com/HugoViniciusSF/ProjetoIA)
 _Este projeto realiza a análise inteligente do fluxo de veículos em tempo real, utilizando visão computacional e modelos de Inteligência Artificial para detectar, rastrear, contar e classificar a intensidade do trânsito._
 
+### [Neuronautas](https://github.com/HugoViniciusSF/Neuronautas)
+_Em Neuronautas, você assume o papel de um explorador da mente, um "neuronauta". Sua missão é viajar pelas diversas regiões do cérebro, ativando e fortalecendo diferentes áreas cognitivas através de uma série de minigames envolventes. Prepare-se para embarcar nesta jornada e turbinar seus neurônios!_
+
+### [SCAB](https://github.com/HugoViniciusSF/Scab)
+_Um intenso jogo de simulação e estratégia que te joga no coração de uma greve virtual! Prepare-se para se juntar à linha de frente, seja defendendo os direitos dos trabalhadores como um sindicalista dedicado, ou agindo nas sombras para desmantelar tudo como um astuto fura-greve/diretor_
+
+
 ## 📫 Como me encontrar
 <a href="https://www.linkedin.com/in/hugo-vinicius-33452830b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
