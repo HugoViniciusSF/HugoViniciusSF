@@ -6,8 +6,14 @@
 
 👨‍💻 Desenvolvedor Full Stack | 🚀 Entusiasta de Tecnologia | 🎨 Designer de Interfaces
 
-Estudante do décimo período de Tecnologia da Informação, destaco-me pela dedicação ao aprendizado constante e pela habilidade em contribuir de maneira eficaz em projetos em equipe. Atualmente, almejo expandir minha formação com um segundo ciclo em Engenharia de Software. Desde cedo, meu interesse por computadores e a busca por conhecimento têm sido fundamentais em minha trajetória acadêmica.
-Atuo como desenvolvedor fullstack, com experiência no setor público, especificamente no Instituto Técnico-Científico de Perícia do Rio Grande do Norte (ITEP-RN). Minha atuação envolve o desenvolvimento e manutenção de sistemas, garantindo soluções eficientes e seguras para a gestão de informações institucionais. Sou apaixonado por desenvolvimento de software e design do front-end web, tendo experiência com diversas tecnologias e frameworks. Estou sempre buscando aprender e crescer profissionalmente, aprimorando minhas habilidades para entregar soluções cada vez mais eficientes e inovadoras.
+Bacharel em Tecnologia da Informação pela UFRN e graduando em Inteligência
+Artificial pela mesma instituição. Atuo como desenvolvedor Fullstack com
+sólida base em Engenharia de Software e experiência no setor público (Polícia
+Científica do RN). Na PCI-RN, foco no desenvolvimento e manutenção de
+sistemas robustos, garantindo segurança e eficiência na gestão de dados
+institucionais. Unindo minha experiência em sistemas críticos ao meu avanço
+acadêmico em IA, busco aplicar soluções inteligentes e automatizadas para
+resolver problemas complexos e entregar software de alto impacto
 
 ## 🚀 Minhas Habilidades
 
